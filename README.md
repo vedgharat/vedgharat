@@ -11,7 +11,7 @@ My current focus areas include:
 
 ## 📊 Competitive Programming Profiles
 
-- **Codolio**: [View my Codolio Profile](https://www.codolio.com/u/ved)  
+- **Codolio**: [View my Codolio Profile](https://www.codolio.com/profile/ved)  
 - **Codeforces**: [View my Codeforces Profile](https://codeforces.com/profile/gved.16)  
 - **LeetCode**: [View my LeetCode Profile](https://leetcode.com/vedgharat/)  
 - **CodeChef**: [View my CodeChef Profile](https://www.codechef.com/users/icebear16)  
