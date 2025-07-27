@@ -29,8 +29,8 @@ My current focus areas include:
 
 ## 📈 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedghart&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedghart&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedgharat&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedgharat&layout=compact&theme=default)
 
 ---
 
