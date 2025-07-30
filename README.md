@@ -4,7 +4,7 @@
 I am a Computer Engineering student with a strong interest in **Competitive Programming** and **Software Development**.  
 My current focus areas include:  
 - Strengthening problem-solving skills through **Data Structures and Algorithms**.  
-- Practicing regularly on **Codeforces, LeetCode, CodeChef**, and **Codolio**.  
+- Practicing regularly on **Codeforces, LeetCode** and **CodeChef**.  
 - Developing practical software projects, including **AI-integrated applications** and **full-stack web development**.
 
 ---
