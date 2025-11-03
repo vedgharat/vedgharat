@@ -28,7 +28,6 @@ My current focus areas include:
 ---
 
 ## 📈 GitHub Statistics
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedgharat&label=Profile%20views&color=0e75b6&style=flat" alt="vedgharat" /> </p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedgharat&show_icons=true&theme=default)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedgharat&layout=compact&theme=default)
