@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;Competitive+Programmer;C%2B%2B+%7C+Java+%7C+Python;Full-Stack+%26+AI+Enthusiast;Consistency+Builds+Excellence" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vedgharat&style=flat-square&color=blue" />
-  <img src="https://img.shields.io/github/followers/vedgharat?label=Followers&style=flat-square" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
