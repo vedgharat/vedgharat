@@ -129,6 +129,16 @@ I enjoy solving challenging problems, writing clean and efficient code, and cont
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-trophies.vercel.app/?username=vedgharat&theme=darkhub)](https://github.com/lucthienphong1120/github-trophies)
+
+</div>
+
+---
+
 ## 📫 Connect With Me
 
 <p align="center">
