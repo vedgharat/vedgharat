@@ -83,7 +83,6 @@ I enjoy solving challenging problems, writing clean and efficient code, and cont
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   <img src="https://img.shields.io/badge/Roboflow-7B61FF?style=for-the-badge&logo=roboflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
 
 ### ✅ Testing & Quality
